@@ -1,0 +1,20 @@
+README
+
+Jiaqi Fan
+A12584051
+cse8bwang
+1/19/2016
+
+Program Description:
+This the continue of the last PSA. For this psa i finished the most important part for the game which is the Canmove and move method. This two method decided the float of the game. When a command of direction is given and the direction passes into the method to check wether i could move into that direction or not. If i could move then process with that move and print out the new board and the score. Continue with the game unitl no move is avaliable then the game will print out "Game over". This is it about my 2048 game. 
+
+Short Response:
+
+1. The command will be cp fubar.java <destination path>
+2. "man cat" is a command to see the basic comand line options manual
+3. There are two commands 1. <number of line>G 2. <number of line>gg
+4. The command gg is go to the first line G is go to last line.
+5. a. Constructors must have the same name as the class.
+   b. Constructors need Access modifier.
+6. It means that you can call the method without creating a new object.
+
